@@ -11,4 +11,6 @@ WordPress Essential: https://testprovider.com/ru/search-certificate/tp22055997
 
 HTML&CSS Advanced: https://testprovider.com/ru/search-certificate/tp59627562
 
-PHP: https://api2.sololearn.com/v2/certificates/CT-ZXPLCAUT/image/png
+PHP: https://www.sololearn.com/Certificate/CT-ZXPLCAUT/png
+
+React&Redux: https://www.sololearn.com/Certificate/CT-PALFIMID/png
